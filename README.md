@@ -18,17 +18,17 @@ I am a Civil Engineer in Computer Science with a strong focus on continuous impr
 ## 🚀 Projects
 - **[Watch List](https://github.com/WatchListProject)**  
    - Allows users to search for **movies** and **series**, create a personal list, and generate **AI-based recommendations**.
-   - **Technologies**: NestJS, TypeScript, Microservices, gRPC, MongoDB, Mongoose, Docker, Swagger
+   - **Technologies**: NestJS, TypeScript, Microservices, gRPC, MongoDB, Mongoose, Docker, JWT based Auth, Swagger
 
 - **[Survey Manager](https://github.com/JeAntonioLopez/Survey-Manager)**  
    - Enables users to create, manage, and respond to surveys.
-   - **Technologies**: ExpressJS, TypeScript, PostgreSQL, TypeORM
+   - **Technologies**: ExpressJS, TypeScript, PostgreSQL, TypeORM, Swagger, JWT based Auth, Swagger
 
 - **[Chile IT Jobs Data Analysis](https://github.com/JeAntonioLopez/Jobs_DA_Project)**  
    - Analyzes job market trends in the Chilean IT industry.
    - **Technologies**: Python, Pandas, Matplotlib, Seaborn
 
-- **[Amazin](https://github.com/username/project3)**  
+- **[Amazin](https://github.com/JeAntonioLopez/e-commerce-microservices-springboot-kafka)**  
    - Simulated e-commerce platform for product catalog and order processing.
    - **Technologies**: SpringBoot, Microservices, Kafka, Docker
 
