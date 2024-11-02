@@ -18,7 +18,7 @@ I am a Civil Engineer in Computer Science with a strong focus on continuous impr
 ## 🚀 Projects
 - **[Watch List](https://github.com/WatchListProject)**  
    - Allows users to search for **movies** and **series**, create a personal list, and generate **AI-based recommendations**.
-   - **Technologies**: NestJS, TypeScript, Microservices, gRPC, MongoDB, Mongoose, Docker, JWT based Auth, Swagger
+   - **Technologies**: NestJS, TypeScript, Microservices, gRPC, External APIs, MongoDB, Mongoose, Docker, JWT based Auth, Swagger
 
 - **[Survey Manager](https://github.com/JeAntonioLopez/Survey-Manager)**  
    - Enables users to create, manage, and respond to surveys.
