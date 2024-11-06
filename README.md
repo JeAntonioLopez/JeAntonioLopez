@@ -15,7 +15,7 @@ I am a Civil Engineer in Computer Science with a strong focus on continuous impr
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🚀 Projects
+## 🚀 Some Projects
 - **[Watch List](https://github.com/WatchListProject)**  
    - Allows users to search for **movies** and **series**, create a personal list, and generate **AI-based recommendations**.
    - **Technologies**: NestJS, TypeScript, Microservices, gRPC, External APIs, MongoDB, Mongoose, Docker, JWT based Auth, Swagger
