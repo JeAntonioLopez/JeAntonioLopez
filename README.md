@@ -22,7 +22,7 @@ I am a Civil Engineer in Computer Science with a strong focus on continuous impr
 
 - **[Survey Manager](https://github.com/JeAntonioLopez/Survey-Manager)**  
    - Enables users to create, manage, and respond to surveys.
-   - **Technologies**: ExpressJS, TypeScript, PostgreSQL, TypeORM, Swagger, JWT based Auth, Swagger
+   - **Technologies**: ExpressJS, TypeScript, PostgreSQL, TypeORM, Swagger, JWT based Auth, Bcrypt, Swagger
 
 - **[Chile IT Jobs Data Analysis](https://github.com/JeAntonioLopez/Jobs_DA_Project)**  
    - Analyzes job market trends in the Chilean IT industry.
