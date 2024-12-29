@@ -28,7 +28,7 @@ I am a Civil Engineer in Computer Science with a strong focus on continuous impr
  
 - **[Simple Rest Shop](https://github.com/JeAntonioLopez/flask-store-rest)**  
    - A REST API for managing a simple online store. Supports CRUD operations for products and orders.
-   - **Technologies**: Flask, SQLite, RESTful API
+   - **Technologies**: Flask, SQLAlchemy, SQLite, RESTful API
 
 - **[Chile IT Jobs Data Analysis](https://github.com/JeAntonioLopez/Jobs_DA_Project)**  
    - Analyzes job market trends in the Chilean IT industry.
