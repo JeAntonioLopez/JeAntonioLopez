@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 ## 👋 Introduction
-I am a Civil Engineer in Computer Science with a strong focus on continuous improvement and constant learning. I am especially interested in software development and data analysis, and I aim to grow in these areas, expanding my technical knowledge and passion for technology.
+Hi, i am a Civil Engineer in Computer Science and Software Developer, with a strong focus on continuous improvement and constant learning. I am especially interested in software development and cloud technologies and I enjoy building projects that allow me to explore new technologies and strengthen my technical skills.
 
 ## 🛠️ Main Languages & Tools
 <p align="left">
@@ -18,25 +18,30 @@ I am a Civil Engineer in Computer Science with a strong focus on continuous impr
 </p>
 
 ## 🚀 Some Projects
-- **[Watch List](https://github.com/WatchListProject)**  
-   - Allows users to search for **movies** and **series**, create a personal list, and generate **AI-based recommendations**.
-   - **Technologies**: NestJS, TypeScript, Microservices, gRPC, External APIs, MongoDB, Mongoose, Docker, JWT based Auth, Swagger
 
-- **[Survey Manager](https://github.com/JeAntonioLopez/Survey-Manager)**  
-   - Enables users to create, manage, and respond to surveys.
-   - **Technologies**: ExpressJS, TypeScript, PostgreSQL, TypeORM, Swagger, JWT based Auth, Bcrypt, Swagger
- 
-- **[Simple Rest Shop](https://github.com/JeAntonioLopez/flask-store-rest)**  
-   - A REST API for managing a simple online store. Supports CRUD operations for products and orders.
-   - **Technologies**: Flask, SQLAlchemy, SQLite, RESTful API
+- **[Xpenses](https://github.com/XpensesApp)**
+  - A personal expense management application focused on tracking expenses, income, accounts, budgets, and credit card payments.
+  - **Technologies**: Next.js, React, TypeScript, AWS, Lambda, DynamoDB, API Gateway, Cognito
 
-- **[Chile IT Jobs Data Analysis](https://github.com/JeAntonioLopez/Jobs_DA_Project)**  
-   - Analyzes job market trends in the Chilean IT industry.
-   - **Technologies**: Python, Pandas, Matplotlib, Seaborn
+- **[Watch List](https://github.com/WatchListProject)**
+  - Allows users to search for **movies** and **series**, create a personal list, and generate **AI-based recommendations**.
+  - **Technologies**: NestJS, TypeScript, Microservices, gRPC, External APIs, MongoDB, Mongoose, Docker, JWT based Auth, Swagger
 
-- **[Amazin](https://github.com/JeAntonioLopez/e-commerce-microservices-springboot-kafka)**  
-   - Simulated e-commerce platform for product catalog and order processing.
-   - **Technologies**: SpringBoot, Microservices, Kafka, Docker
+- **[Survey Manager](https://github.com/JeAntonioLopez/Survey-Manager)**
+  - Enables users to create, manage, and respond to surveys.
+  - **Technologies**: ExpressJS, TypeScript, PostgreSQL, TypeORM, Swagger, JWT based Auth, Bcrypt
+
+- **[Simple Rest Shop](https://github.com/JeAntonioLopez/flask-store-rest)**
+  - A REST API for managing a simple online store. Supports CRUD operations for products and orders.
+  - **Technologies**: Flask, SQLAlchemy, SQLite, RESTful API
+
+- **[Chile IT Jobs Data Analysis](https://github.com/JeAntonioLopez/Jobs_DA_Project)**
+  - Analyzes job market trends in the Chilean IT industry.
+  - **Technologies**: Python, Pandas, Matplotlib, Seaborn
+
+- **[Amazin](https://github.com/JeAntonioLopez/e-commerce-microservices-springboot-kafka)**
+  - Simulated e-commerce platform for product catalog and order processing.
+  - **Technologies**: SpringBoot, Microservices, Kafka, Docker
 
 ---
 
